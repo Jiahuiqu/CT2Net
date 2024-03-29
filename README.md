@@ -1,4 +1,4 @@
-# GC2Net
+# GC2Net for HSI-RGB Multimodal Change Detection
 The python code implementation of the paper "Guided Cycle Translation-Based Cross-Modal Collaborative Training Network for Hyperspectral-RGB Multimodal Change Detection"
 
 # The Liyukou Dataset for HSI-RGB Multimodal CD
